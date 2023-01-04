@@ -10,3 +10,5 @@
 ![regis3](https://user-images.githubusercontent.com/76623158/210587230-9aac95ab-76d3-41c9-aaff-d33cdd88cd56.jpg)
 
 ### and Thats all for it. 🏆
+
+## Used - useEffect() and useState() hook
